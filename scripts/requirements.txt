@@ -1,3 +1,4 @@
 requests==2.20.1
 click==6.7
 jinja2==2.10.1
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
