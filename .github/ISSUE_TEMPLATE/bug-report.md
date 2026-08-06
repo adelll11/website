@@ -1,9 +1,12 @@
 ---
 name: Bug Report
 about: Report a bug encountered with Kubernetes Website
-labels:
-- kind/bug
+title: ''
+labels: ''
+assignees: ''
+
 ---
+
 **This is a Bug Report**
 
 <!-- Thanks for filing an issue! Before submitting, please fill in the following information. -->

@@ -1,9 +1,12 @@
 ---
 name: Feature Request
 about: Suggest a/an feature/enhancement to the Kubernetes Website project
-labels:
-- kind/feature
+title: ''
+labels: ''
+assignees: ''
+
 ---
+
 **This is a Feature Request**
 
 <!-- Please only use this template for submitting feature/enhancement requests -->

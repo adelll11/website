@@ -1,9 +1,12 @@
 ---
 name: Support Request
 about: Support request or question relating to Kubernetes Website project
-labels:
-- triage/support
+title: ''
+labels: ''
+assignees: ''
+
 ---
+
 **This is Support**
 
 <!--
